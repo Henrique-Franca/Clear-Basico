@@ -1,4 +1,4 @@
-//import React from "react"
+
 
 export default function Inicial(){
     const titulo = <h1>Titulo incrivel</h1>
