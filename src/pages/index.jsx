@@ -6,6 +6,7 @@ export default function Inicial(){
         <Link href="/estiloso">
             <h1>Estiloso</h1>
         </Link>
+        
     </div>
    )
 }
