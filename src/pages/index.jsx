@@ -1,3 +1,7 @@
-export default function Inicio(){
-    return "Inicio2 "
+export default function inicio(){
+    return(
+        <div>
+            <h1>Eprendendo frameworks</h1>
+        </div>
+    )
 }
