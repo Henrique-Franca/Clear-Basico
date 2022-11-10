@@ -8,7 +8,7 @@ export default function Jsx(){
     }
    
     return (
-        <Layout titulo="Exemplo de CSS Modularizado">
+        <Layout titulo="Entendendo o JSX">
         <div>
         {titulo}
         {subtitulo()}

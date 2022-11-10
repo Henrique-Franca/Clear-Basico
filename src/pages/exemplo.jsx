@@ -4,7 +4,7 @@ import Layout from "../components/Layout";
 export default function Exemplo(){
 
     return (
-        <Layout titulo="Exemplo de CSS Modularizado">
+        <Layout titulo="usando componentes ">
         <div>
             <Cabecalho titulo="Next.js & React"/>
             <Cabecalho titulo="Aprendendo Next na prática"/>
